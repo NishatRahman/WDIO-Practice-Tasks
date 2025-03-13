@@ -1,2 +1,2 @@
-# NishatRahman-WDIO-Practice-Tasks
+# WDIO-Practice-Tasks
 WebDriverIO Practice Tasks
